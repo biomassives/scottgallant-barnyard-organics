@@ -111,5 +111,3 @@ fields:
     default: ''
   hidden: false
   default: ''
-pages:
-- index.md

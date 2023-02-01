@@ -68,12 +68,3 @@ fields:
   default: ''
   description: This is a list of links to other pages. It will appear in a grid-format
     (with an image, title, and text)
-pages:
-- about/family/index.md
-- about/index.md
-- feed.md
-- how-to-order.md
-- poultry.md
-- poultry2.md
-- services.md
-- turkey-1.md
