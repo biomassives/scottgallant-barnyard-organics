@@ -3,7 +3,7 @@ title: Home
 layout: home
 _template: home
 permalink: "/"
-background: "/barnyard-organics/images/img_9844.jpg"
+background: "/barnyard-organics/images/sunset-valleys.JPG"
 main_heading: Mary Holtz Art
 ecofm_image: "/images/front.png"
 ecofm_heading: Welcome to my website!
