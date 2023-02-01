@@ -1,9 +1,9 @@
-title: Barnyard Organics
+title: Mary Holtz Art
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Local and organic! Real, good ingredients. No weird stuff. Custom Roasting. Bio-Ag Distributor. General Seed Distributor. Grain Cleaning & Drying.
 # baseurl: "/barnyard-organics"
-url: "www.barnyardorganics.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mary-holtz-art-forestyard.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 
@@ -28,7 +28,7 @@ exclude:
 sass:
   style: compressed
 
-google_analytics: UA-39666952-8
+google_analytics: G-MQ5G0ZFSVX 
 
 include: [/faq.md]
 exclude: [node_modules]
