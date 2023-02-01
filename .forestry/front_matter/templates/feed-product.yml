@@ -42,7 +42,7 @@ fields:
   type: field_group_list
   fields:
   - name: nutrients
-    label: Nutrients
+    label: Feature
     type: text
     hidden: false
     default: ''
