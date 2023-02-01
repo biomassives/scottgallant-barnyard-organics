@@ -3,7 +3,7 @@ title: Home
 layout: home
 _template: home
 permalink: "/"
-background: "/images/chicken-homepage-image-2.jpg"
+background: "/barnyard-organics/images/img_9844.jpg"
 main_heading: Mary Holtz Art
 ecofm_image: "/images/front.png"
 ecofm_heading: Welcome to my website!
