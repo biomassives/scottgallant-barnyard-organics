@@ -2,11 +2,11 @@
 title: Home
 layout: home
 _template: home
-permalink: /
+permalink: "/"
 background: "/images/chicken-homepage-image-2.jpg"
-main_heading: Barnyard Organics
+main_heading: Mary Holtz Art
 ecofm_image: "/images/front.png"
-ecofm_heading: Home of East Coast Organic Grainery
+ecofm_heading: Welcome to my website!
 ecofm_links:
 - link: _feed-products/barnyard-7.md
   heading: Learn about the Barnyard 7--simple, pure ingredients!
@@ -59,7 +59,7 @@ menu:
   main:
     identifier: _index
     url: "/"
-    weight: 1
+    weight: "1"
     title: Home
 
 ---
